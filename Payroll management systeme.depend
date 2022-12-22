@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671416542 source:c:\users\tushar\desktop\payroll management systeme\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
